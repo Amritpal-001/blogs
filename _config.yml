@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dr. Amrit is a physician-turned-data scientist. He is pursuing his MS in computer science at Georgia Tech, USA. He did his MBBS from Maulana Azad medical college(MAMC), India. He believes that the fusion of medicine and artificial intelligence is an essential path to the democratization of health. He participates in data science competitions at kaggle and currently is Kaggle 4x Expert This blog is on his journey of artificial intelligence in medicine.
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "https://amritpal-001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: DrAmrit_pal
+github_username:  Amritpal-001
 
 # Build settings
 markdown: kramdown
